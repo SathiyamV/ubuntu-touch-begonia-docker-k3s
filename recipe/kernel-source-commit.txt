@@ -1,0 +1,2 @@
+4c74d0e849ae1bba6146d89118360709c3f86692
+origin	https://gitlab.com/ubports/community-ports/android10/xiaomi-redmi-note-8-pro/kernel-xiaomi-mt6785.git (fetch)

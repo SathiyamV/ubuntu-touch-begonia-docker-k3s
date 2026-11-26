@@ -1,0 +1,6 @@
+Scripts and documentation in this repository: MIT License.
+Kernel configuration files: GPL-2.0-only (same as the Linux kernel).
+Binary images (GitHub Release): derived from the UBports/Halium kernel and ramdisk; the kernel is GPL-2.0-only,
+source: https://gitlab.com/ubports/community-ports/android10/xiaomi-redmi-note-8-pro/kernel-xiaomi-mt6785 (commit in recipe/kernel-source-commit.txt).
+
+MIT License - Permission is hereby granted, free of charge, to any person obtaining a copy of the scripts and documentation, to deal in them without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies, subject to the following condition: the above notice shall be included in all copies. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
